@@ -1,0 +1,21 @@
+{
+  "name": "@gr2m/semantic-release-test-1368",
+  "publishConfig": {
+    "access": "public"
+  },
+  "version": "1.0.0",
+  "description": "Test repository for semantic-release/semantic-release#1368",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gr2m/semantic-release-test-1368.git"
+  },
+  "scripts": {
+    "test": "echo \"ok\" && exit 0"
+  },
+  "keywords": [],
+  "author": "Gregor Martynus (https://twitter.com/gr2m)",
+  "license": "MIT",
+  "devDependencies": {
+    "semantic-release": "github:semantic-release/semantic-release#git-notes"
+  }
+}
